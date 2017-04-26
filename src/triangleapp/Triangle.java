@@ -10,11 +10,12 @@ package triangleapp;
  * @author rachana.gurram
  */
 public class Triangle {
-
+    //this is news
+    //this is also new
     private int a;
     private int b;
     private int c;
-
+// for commit 1
     public Triangle(int s1, int s2, int s3) {
         setA(s1);
         setB(s2);
