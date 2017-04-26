@@ -111,4 +111,8 @@ public class Triangle {
 
         return result;
     }
+    
+    private void thisIsCool(){
+      System.out.println("Wow!");
+    }
 }
